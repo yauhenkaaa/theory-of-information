@@ -1,18 +1,5 @@
 ### Visual Studio ###
-# Исключить артефакты сборки
-[Bb]in/
-[Oo]bj/
-*.exe.config
-*.pdb
-*.dll
-*.cache
-*.jar
-*.class
-*.obj
-*.lib
-*.exp
-*.ilk
-*.nupkg
+
 
 # Служебные файлы IDE
 .vs/
