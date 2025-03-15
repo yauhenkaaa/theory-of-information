@@ -29,5 +29,5 @@
 
 ### Исключения ###
 # Разрешить исполняемые файлы в Debug/Release
-!**/[Bb]in/[Dd]ebug/*.exe
-!**/[Bb]in/[Rr]elease/*.exe
+!**/[Bb]in/[Dd]ebug/[Nn]et8.0-windows/*.exe
+!**/[Bb]in/[Rr]elease/[Nn]et8.0-windows/*.exe
